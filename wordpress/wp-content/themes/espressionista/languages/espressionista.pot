@@ -1,0 +1,298 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Espressionista\n"
+"POT-Creation-Date: 2013-10-07 02:54+0200\n"
+"PO-Revision-Date: 2013-10-07 02:55+0200\n"
+"Last-Translator: Daniel <contact@onedesigns.com>\n"
+"Language-Team: One Designs <contact@onedesigns.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../attachment.php:19
+msgid "Download"
+msgstr ""
+
+#: ../attachment.php:29 ../content-aside.php:12 ../content-status.php:16
+#: ../content-video.php:10 ../content.php:16 ../page.php:14 ../single.php:28
+#: ../template-full-width.php:18 ../template-sidebar-content.php:18
+msgid "Pages:"
+msgstr ""
+
+#: ../comments.php:4
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: ../comments.php:7
+msgid "No Responses to"
+msgstr ""
+
+#: ../comments.php:7
+msgid "One Response to"
+msgstr ""
+
+#: ../comments.php:7
+msgid "% Responses to"
+msgstr ""
+
+#: ../comments.php:29
+msgid "Comments are closed."
+msgstr ""
+
+#: ../content-aside.php:11 ../content-status.php:15 ../content-video.php:9
+#: ../content.php:15
+msgid "Keep Reading &rarr;"
+msgstr ""
+
+#: ../footer.php:4
+#, php-format
+msgid ""
+"Powered by <a href=\"%1$s\">Espressionista Theme</a> and <a href=\"%2$s"
+"\">WordPress</a>"
+msgstr ""
+
+#: ../functions.php:74
+msgid "Displays in in the main sidebar area."
+msgstr ""
+
+#: ../functions.php:84
+msgid "Displays on 404 Pages in the content area."
+msgstr ""
+
+#: ../functions.php:235
+msgid "Page"
+msgstr ""
+
+#: ../functions.php:608
+msgid "Search results for"
+msgstr ""
+
+#: ../functions.php:625
+#, php-format
+msgid "Page %d"
+msgstr ""
+
+#: ../functions.php:666
+#, php-format
+msgid "Posted by <span class=\"entry-author-link fn\">%1$s</span>"
+msgstr ""
+
+#: ../functions.php:667
+#, php-format
+msgid "on <a href=\"%1$s\" rel=\"bookmark\" title=\"%2$s\">%3$s</a>"
+msgstr ""
+
+#: ../functions.php:669
+#, php-format
+msgid ""
+"with original size of <a href=\"%1$s\" title=\"Link to full-size image\">"
+"%2$s &times; %3$s</a> pixels"
+msgstr ""
+
+#: ../functions.php:671
+#, php-format
+msgid "and filed under %1$s"
+msgstr ""
+
+#: ../functions.php:691
+#, php-format
+msgid "Posts by %s"
+msgstr ""
+
+#: ../functions.php:725
+msgid "Keep reading &rarr;"
+msgstr ""
+
+#: ../functions.php:1139 ../functions.php:1157
+msgid "Previous Page"
+msgstr ""
+
+#: ../functions.php:1140 ../functions.php:1158
+msgid "Next Page"
+msgstr ""
+
+#: ../functions.php:1143
+msgid "Newer Posts"
+msgstr ""
+
+#: ../functions.php:1144
+msgid "Older Posts"
+msgstr ""
+
+#: ../functions.php:1147
+msgid "Later Posts"
+msgstr ""
+
+#: ../functions.php:1148
+msgid "Earlier Posts"
+msgstr ""
+
+#: ../functions.php:1174
+msgid "Read all Articles"
+msgstr ""
+
+#: ../functions.php:1193
+msgid "Content not found"
+msgstr ""
+
+#: ../functions.php:1195
+msgid "The content you are looking for could not be found."
+msgstr ""
+
+#: ../functions.php:1197
+msgid ""
+"Use the information below or try to seach to find what you're looking for:"
+msgstr ""
+
+#: ../header.php:23
+msgid "Menu"
+msgstr ""
+
+#: ../header.php:24
+msgid "Show Menu"
+msgstr ""
+
+#: ../header.php:25
+msgid "Hide Menu"
+msgstr ""
+
+#: ../header.php:27
+msgid "Skip to content"
+msgstr ""
+
+#: ../searchform.php:2
+msgid "Search for:"
+msgstr ""
+
+#: ../theme-options.php:5 ../theme-options.php:6 ../theme-options.php:362
+msgid "Theme Options"
+msgstr ""
+
+#: ../theme-options.php:33
+msgid "Background Colors"
+msgstr ""
+
+#: ../theme-options.php:39
+msgid "Navbar Background"
+msgstr ""
+
+#: ../theme-options.php:51
+msgid "Submenu Background"
+msgstr ""
+
+#: ../theme-options.php:63
+msgid "Content Background"
+msgstr ""
+
+#: ../theme-options.php:75
+msgid "Sidebar Background"
+msgstr ""
+
+#: ../theme-options.php:87
+msgid "Footer Background"
+msgstr ""
+
+#: ../theme-options.php:100
+msgid "Layout Template"
+msgstr ""
+
+#: ../theme-options.php:106
+msgid "Choose your preferred Layout Template"
+msgstr ""
+
+#: ../theme-options.php:135
+msgid "Typography"
+msgstr ""
+
+#: ../theme-options.php:141
+msgid "Body Font"
+msgstr ""
+
+#: ../theme-options.php:152
+msgid "Site Title Font"
+msgstr ""
+
+#: ../theme-options.php:163
+msgid "Menu Item Font"
+msgstr ""
+
+#: ../theme-options.php:174
+msgid "Menu Item Hover Color"
+msgstr ""
+
+#: ../theme-options.php:186
+msgid "Submenu Item Color"
+msgstr ""
+
+#: ../theme-options.php:198
+msgid "Headlines Font"
+msgstr ""
+
+#: ../theme-options.php:209
+msgid "Bylines Font"
+msgstr ""
+
+#: ../theme-options.php:220
+msgid "Content Font"
+msgstr ""
+
+#: ../theme-options.php:231
+msgid "Link Color"
+msgstr ""
+
+#: ../theme-options.php:243
+msgid "Link Hover Color"
+msgstr ""
+
+#: ../theme-options.php:255
+msgid "Widget Title Font"
+msgstr ""
+
+#: ../theme-options.php:266
+msgid "Widget Text Font"
+msgstr ""
+
+#: ../theme-options.php:277
+msgid "Widget Link Color"
+msgstr ""
+
+#: ../theme-options.php:289
+msgid "Widget Link Hover Color"
+msgstr ""
+
+#: ../theme-options.php:301
+msgid "Footer Text Font"
+msgstr ""
+
+#: ../theme-options.php:312
+msgid "Footer Link Color"
+msgstr ""
+
+#: ../theme-options.php:324
+msgid "Footer Link Hover Color"
+msgstr ""
+
+#: ../theme-options.php:337
+msgid "Custom CSS"
+msgstr ""
+
+#: ../theme-options.php:343
+msgid "Enter your custom CSS"
+msgstr ""
+
+#: ../theme-options.php:364
+msgid "Theme settings updated successfully."
+msgstr ""
+
+#: ../theme-options.php:370
+msgid "Save Settings"
+msgstr ""
+
+#: ../theme-options.php:371
+msgid "Reset Defaults"
+msgstr ""
